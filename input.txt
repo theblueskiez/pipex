@@ -1,0 +1,4 @@
+This is a sample input file.
+It contains multiple lines.
+Each line may have some patterns.
+Feel free to customize this file for testing.
